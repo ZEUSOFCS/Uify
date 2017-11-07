@@ -1,6 +1,4 @@
-
-![uify logo 3x](https://user-images.githubusercontent.com/19171147/32478373-71fd6162-c352-11e7-9d5f-902ecafc44da.png)
-
+![github header](https://user-images.githubusercontent.com/19171147/32492971-1fafc21e-c38a-11e7-86cc-8e2f2d6ab02e.png)
 
 
 ## Overview of Uify
